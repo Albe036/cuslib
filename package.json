@@ -1,0 +1,17 @@
+{
+  "name": "cuslib",
+  "version": "1.0.0",
+  "description": "ddddd",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "colors": "^1.4.0"
+  }
+}
