@@ -8,7 +8,7 @@ export function send_random_number() {
         number: faker.string.uuid(),
         name: faker.internet.userName(),
     }
-    console.log(`${data.number} - ${data.name}`.green.bold);
+    console.log(`${data.number} - ${data.name}`.red.bold);
     return data;
 }
 
